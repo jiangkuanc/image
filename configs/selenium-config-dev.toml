@@ -1,0 +1,7 @@
+Port = 8080
+# DriverPath = "/opt/google-driver/chromedriver"
+DriverPath = "/usr/local/bin/chromedriver"
+BookmarkPage = 2
+Timeout = 3000
+
+ImageUrl = "https://cn.bing.com/images/search?tsc=ImageBasicHover&form=BESBTB&first=1&ensearch=1"
